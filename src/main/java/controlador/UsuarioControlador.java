@@ -1,4 +1,4 @@
-package controllers;
+package controlador;
 
 public class UsuarioControlador {
 }
